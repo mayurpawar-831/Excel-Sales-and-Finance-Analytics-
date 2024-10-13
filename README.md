@@ -6,7 +6,7 @@ This repository contains a collection of sales and finance analytics reports, de
 - **Purpose of sales analytics:** financial performance evaluation, support decision-making, and facilitate stakeholder communication.
 
 - **Importance of analysing sales data:** Identify sales patterns and track key performance indicators (KPIs).
-- **Importance of analysing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+- **Importance of analysing finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
 - **Role of reports:** Determine effective customer discounts, facilitate consumer negotiations, and identify potential business expansion opportunities in promising countries.
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organisation's financial outlook.

@@ -2,6 +2,13 @@
 
 This repository contains a collection of sales and finance analytics reports, designed to help businesses track key performance indicators and make data-driven decisions. Each report provides insights into sales trends, profitability, and product performance across various dimensions.
 
+- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+
+- **Importance of analysing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+
+- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+
+
 ## Reports Included
 
 1. **Customer Net Sales Performance** 

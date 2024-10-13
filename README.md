@@ -52,6 +52,6 @@ This repository contains a collection of sales and finance analytics reports, de
 ## Getting Started
 
 1. Clone the repository:
-   https://github.com/mayurpawar-831/Excel-Sales-and-Finance-Analytics.git
+   https://github.com/mayurpawar-831/Excel-Sales-and-Finance-Analytics-
 2. Browse the reports and analyze the data to gather actionable insights.
 

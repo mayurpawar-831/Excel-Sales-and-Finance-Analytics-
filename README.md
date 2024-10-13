@@ -74,9 +74,4 @@ This repository contains a collection of sales and finance analytics reports, de
 2. Open the report to review the performance metrics for the specific category (e.g., division, market, product, etc.).
 3. Use the insights to inform business strategies and decision-making.
 
-## Getting Started
-
-1. Clone the repository:
-   https://github.com/mayurpawar-831/Excel-Sales-and-Finance-Analytics-
-2. Browse the reports and analyze the data to gather actionable insights.
 

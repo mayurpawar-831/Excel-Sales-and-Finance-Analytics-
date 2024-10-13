@@ -54,6 +54,20 @@ This repository contains a collection of sales and finance analytics reports, de
 - **User-Friendly**: Each report is presented in a clean, easy-to-read format, making it accessible for both business and technical stakeholders.
 - **Business Performance Tracking**: These reports help businesses monitor key performance indicators (KPIs) related to sales and financial metrics.
 
+## Technical & Soft Skills:
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
+- [x]	Ability to derive fiscal months and quarters.
+- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Utilising DAX to create calculated columns.
+
+## Soft Skills:
+- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimisation of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report building plan.
+
 ## How to Use
 
 1. Download the desired '.pdf' file for viewing.

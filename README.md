@@ -17,8 +17,7 @@ To create Sales and Finance Analytics Reports, aimed at extracting decision-maki
 
 ### Sales Analysis Reports
 
-1. **Top 10 Products with Sales Increase** 
-   https://github.com/mayurpawar-831/Excel-Sales-and-Finance-Analytics-/blob/main/Top%2010%20products.pdf
+1. **Top 10 Products with Sales Increase** (https://github.com/mayurpawar-831/Excel-Sales-and-Finance-Analytics-/blob/main/Top%2010%20products.pdf)
    - Insights: The top ten products with significant sales increases, including the best-seller "AQ Electron 4 3600 Desktop processor" and "AQ Pen Drive DRC".
 
 3. **Division Sales Report**

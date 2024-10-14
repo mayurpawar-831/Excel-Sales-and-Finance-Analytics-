@@ -4,7 +4,7 @@ Atliq Hardware specializes in offering a wide range of hardware products, includ
 To reach customers, Atliq Hardware utilizes intermediaries such as retail giants like Croma and Best Buy, as well as popular online marketplaces like Flipkart and Amazon. These intermediaries play a crucial role in connecting Atliq Hardware's products with end consumers, ensuring the offerings are accessible to the general public.
 
 ## Problem Statement
-To develop an interactive business intelligence dashboard, Sales and Finance Analytics Report, aimed at extracting decision-making insights for well-articulated strategies at Atliq Hardware.
+To create Sales and Finance Analytics Reports, aimed at extracting decision-making insights for well-articulated strategies at Atliq Hardware.
 
 ## Sales Analysis
 
@@ -17,23 +17,24 @@ To develop an interactive business intelligence dashboard, Sales and Finance Ana
 
 ### Sales Analysis Reports
 
-1. **Top 10 Products with Sales Increase**
+1. **Top 10 Products with Sales Increase** 
+   https://github.com/mayurpawar-831/Excel-Sales-and-Finance-Analytics-/blob/main/Top%2010%20products.pdf
    - Insights: The top ten products with significant sales increases, including the best-seller "AQ Electron 4 3600 Desktop processor" and "AQ Pen Drive DRC".
 
-2. **Division Sales Report**
+3. **Division Sales Report**
    - Insights: 
      - PCs sales increased from $40.1 million in 2020 to $165.8 million in 2021.
      - Accessories and peripherals grew from $105.2 million to $338.4 million (321.5% increase).
      - Networking and storage products surged from $51.4 million to $94.7 million (184.4% increase).
 
-3. **Top and Bottom 5 Sold Products**
+4. **Top and Bottom 5 Sold Products**
    - **Top 5 Products by Quantity**: Insights on best-performing products, with "AQ Master wired x1 Ms" leading.
    - **Bottom 5 Products by Quantity**: Insights into underperforming products and considerations for adjustments.
 
-4. **New Products in 2021**
+5. **New Products in 2021**
    - Insights: 16 new products were added in 2021, with "AQ Qwerty" performing exceptionally well.
 
-5. **Top 5 Sales Countries in 2021**
+6. **Top 5 Sales Countries in 2021**
    - Insights: 
      - India led with $161.3 million in sales.
      - Strong sales also noted in the USA, South Korea, the UK, and Canada.
